@@ -4,7 +4,7 @@ This section contains information related to my career
 and education. Click on the links in the left navigation
 bar to explore my roles/education.
 
-## Summary of Skills 
+## Summary of Skills
 
 Below is a table summarizing some of my technical skills.
 
