@@ -1,7 +1,7 @@
-# Software Projects 
+# Software Projects
 
 Check out [my github](https://github.com/skorbrand) for the latest projects
-I am working on. 
+I am working on.
 
 ## Virutal Control
 
