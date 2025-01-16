@@ -1,0 +1,8 @@
+# mkdocs
+public
+test
+
+
+# python
+venv
+*pycache*

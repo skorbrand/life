@@ -1,0 +1,42 @@
+# Project information
+site_name: Brandon Skorupinski
+site_url: https://skorbrand.github.io/life
+site_dir: public
+
+# Repository
+repo_name: skorbrand/life
+repo_url: https://github.com/skorbrand/life
+edit_uri: ""
+
+# Theme information
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - toc.follow
+  palette:
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: green
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    # Palette toggle for light mode
+    - scheme: default
+      primary: green
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+markdown_extensions:
+  - toc:
+      permalink: true
+
+# Versioning plugin
+extra:
+  version:
+    provider: mike
