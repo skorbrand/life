@@ -17,5 +17,5 @@ Below is a table summarizing some of my technical skills.
 | JavaScript       | 1                   | Programming Languages |
 | Python           | 2                   | Programming Languages |
 | Java             | 2                   | Programming Languages |
-| C                | 1/2                 | Programming Languages |
-| C++              | 1/2                 | Programming Languages |
+| C                | 1                   | Programming Languages |
+| C++              | 1                   | Programming Languages |
